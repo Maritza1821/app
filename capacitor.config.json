@@ -1,0 +1,6 @@
+{
+  "appId": "com.inventario.com",
+  "appName": "inventario",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
